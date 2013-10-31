@@ -1,4 +1,4 @@
-PRACTICA 6   Desarrollo dirigido por pruebas para la clase fracción
+PRACTICA 7   Uso de la herramienta Travis
 
 Programadores: Jazer Abreu Chinea	y	Daniel Luis Martin
 
